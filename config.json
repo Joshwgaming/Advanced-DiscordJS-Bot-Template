@@ -1,0 +1,8 @@
+{
+    "botToken": "bot token here",
+    "prefix": "!",
+    "guildId": "primary guild id here",
+    "clientId": "bot id here",
+    "authorId": "your id here",
+    "modRoleID": "mod role id here"
+}
