@@ -3,4 +3,4 @@ module.exports = {
 	async execute(ban, client, Client, MessageEmbed) {
         console.log(`${ban.user.tag} has been unbanned in ${ban.guild.name}`)
     }
-}
+};
