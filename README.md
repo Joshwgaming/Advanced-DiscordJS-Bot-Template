@@ -1,5 +1,5 @@
 # Advanced-DiscordJS-Bot-Template - **Updated to DiscordJS v13**
-Advanced DiscordJS Bot Template - With command/event handlers
+Advanced DiscordJS Bot Template - With command/event handlers + example slash/legacy commands
 
 - All events can be found in the `/events/` folder.
 - All slash commands can be found in the  `/commands-slash/` folder.
